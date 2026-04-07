@@ -39,7 +39,7 @@
 
 ## 1. 실험 목적
 
-Qwen3-14B는 동일한 모델에서 추론 과정을 출력하는 Thinking mode와 즉시 답변하는 Non-thinking mode를 모두 지원한다.
+Qwen3-14B는 동일한 모델에서 추론 과정을 출력하는 Thinking mode와 즉시 답변하는 Non-thinking mode를 모두 지원한다.  
 본 실험은 이 두 모드를 활용해 아래 두 가지를 확인한다.
 
 1. **한국어 instruction following 강화**: 영어 중심 사전학습 모델에 한국어 데이터를 파인튜닝하면 한국어 응답 품질이 얼마나 개선되는가?
