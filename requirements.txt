@@ -1,0 +1,16 @@
+# ── 학습 (finetuning.ipynb) ─────────────────────────────────────────
+unsloth==2026.4.4
+datasets==4.3.0
+trl==0.24.0
+accelerate==1.13.0
+bitsandbytes==0.49.2
+peft==0.18.1
+transformers==5.5.0
+tokenizers==0.22.2
+huggingface_hub==1.9.0
+
+# ── 시각화 ──────────────────────────────────────────────────────────
+matplotlib==3.10.8
+koreanize-matplotlib
+numpy==2.4.4
+pandas==3.0.2
