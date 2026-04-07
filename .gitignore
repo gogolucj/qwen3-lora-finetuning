@@ -1,0 +1,14 @@
+# 모델 가중치
+lora_model/
+
+# 캐시
+unsloth_compiled_cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 가상환경
+.venv/
+
+# MacOS 시스템 파일
+.DS_Store
